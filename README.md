@@ -11,7 +11,7 @@ No momento, aprendendo:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width: 40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" style="width: 40px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="width: 40px"/>
-  <img src=https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="width: 40px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="width: 40px"/>
 </section>
 <section align="center">
   <a href="https://github.com/brunoopinheiro">
