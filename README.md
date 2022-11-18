@@ -1,6 +1,7 @@
 ### Opa, tudo bom!? 👋
 
-Me chamo Bruno e atualmente estou estudando Desenvolvimento Web na [Trybe](https://www.betrybe.com/)
+Me chamo Bruno e atualmente estou estudando Desenvolvimento Web na [Trybe](https://www.betrybe.com/) <br>
+Conecte-se comigo no [Linkedin](https://www.linkedin.com/in/brunoopinheirojr/)!
 
 No momento, aprendendo:
 <section style = "display: flex;">
