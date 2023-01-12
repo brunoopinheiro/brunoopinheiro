@@ -15,9 +15,11 @@ No momento, aprendendo:
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="width: 40px"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" style="width: 40px"/>
 </section>
-<section align="center">
-  <a href="https://github.com/brunoopinheiro">
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=brunoopinheiro&show_icons=true&theme=gotham" />
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoopinheiro&layout=compact&theme=gotham" />
-  </a>
-</section>
+<!--
+  <section align="center">
+    <a href="https://github.com/brunoopinheiro">
+      <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=brunoopinheiro&show_icons=true&theme=gotham" />
+      <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoopinheiro&layout=compact&theme=gotham" />
+    </a>
+  </section>
+-->
