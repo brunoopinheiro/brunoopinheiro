@@ -5,15 +5,16 @@ Conecte-se comigo no [Linkedin](https://www.linkedin.com/in/brunoopinheirojr/)!
 
 No momento, aprendendo:
 <section style = "display: flex;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width: 40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width: 40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width: 40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width: 40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" style="width: 40px"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="width: 40px"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="width: 40px"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" style="width: 40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="width: 40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width: 40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width: 40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width: 40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 40px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" style="width: 40px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="width: 40px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="width: 40px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" style="width: 40px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" style="width: 40px" />
 </section>
 <!--
   <section align="center">
