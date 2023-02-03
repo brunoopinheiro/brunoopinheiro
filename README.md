@@ -21,7 +21,7 @@ No momento, aprendendo:
 <br />
 <section align="center">
   <a href="https://github.com/brunoopinheiro">
-    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=brunoopinheiro&show_icons=true&theme=gotham" />
     <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoopinheiro&layout=compact&theme=gotham" />
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=brunoopinheiro&show_icons=true&theme=gotham" />    
   </a>
 </section>
