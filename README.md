@@ -12,15 +12,16 @@ No momento, aprendendo:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" style="width: 40px" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="width: 40px" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="width: 40px" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" style="width: 40px" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" style="width: 40px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" style="width: 40px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" style="width: 40px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="width: 40px" />
 </section>
-<!--
-  <section align="center">
-    <a href="https://github.com/brunoopinheiro">
-      <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=brunoopinheiro&show_icons=true&theme=gotham" />
-      <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoopinheiro&layout=compact&theme=gotham" />
-    </a>
-  </section>
--->
+<br />
+<section align="center">
+  <a href="https://github.com/brunoopinheiro">
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=brunoopinheiro&show_icons=true&theme=gotham" />
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoopinheiro&layout=compact&theme=gotham" />
+  </a>
+</section>
