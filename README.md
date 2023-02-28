@@ -16,6 +16,7 @@ No momento, aprendendo:
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" style="width: 40px" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" style="width: 40px" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" style="width: 40px" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" style="width: 40px" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="width: 40px" />
 </section>
 <br />
