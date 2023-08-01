@@ -2,13 +2,14 @@
 
 Me chamo Bruno e atualmente estou estudando Desenvolvimento Web na [Trybe](https://www.betrybe.com/) <br>
 Conecte-se comigo no [Linkedin](https://www.linkedin.com/in/brunoopinheirojr/)!
-
+<!--
 <section align="center">
   <a href="https://github.com/brunoopinheiro">
     <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoopinheiro&layout=compact&theme=gotham" />
     <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=brunoopinheiro&show_icons=true&theme=gotham" />    
   </a>
 </section>
+-->
 <br />
 Frameworks, Stacks e mais:
 <section style="display: flex;">
