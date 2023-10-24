@@ -1,6 +1,6 @@
 ## Opa, tudo bom!? 👋
 
-Me chamo Bruno e atualmente estou estudando Desenvolvimento Web na [Trybe](https://www.betrybe.com/) <br>
+Me chamo Bruno, sou Desenvolvedor Web Full-Stack, Arqueólogo e Freelancer Game Designer<br>
 Conecte-se comigo no [Linkedin](https://www.linkedin.com/in/brunoopinheirojr/)!
 <!--
 <section align="center">
