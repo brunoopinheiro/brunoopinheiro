@@ -1,7 +1,7 @@
 # Opa, tranquilo!? 👋
 ![](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
-Me chamo Bruno, sou Desenvolvedor especialista em Inteligência Artificial e Robótica, além de Web Full-Stack.<br>
+Eu <i>"escrevinho"</i> uns códigos por aí.<br>
 Além disso, sou Arqueólogo e Freelancer Game Designer. <br><br>
 Conecte-se comigo no [Linkedin](https://www.linkedin.com/in/brunoopinheirojr/)!
 
